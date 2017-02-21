@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pomodoro", "Pomodoro\Pomodoro.csproj", "{CD3CA6A6-AF0E-4A3B-9900-AE5A79FAD8CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3CA6A6-AF0E-4A3B-9900-AE5A79FAD8CD}.Debug|x86.ActiveCfg = Debug|x86
+		{CD3CA6A6-AF0E-4A3B-9900-AE5A79FAD8CD}.Debug|x86.Build.0 = Debug|x86
+		{CD3CA6A6-AF0E-4A3B-9900-AE5A79FAD8CD}.Release|x86.ActiveCfg = Release|x86
+		{CD3CA6A6-AF0E-4A3B-9900-AE5A79FAD8CD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
