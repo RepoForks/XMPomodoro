@@ -62,7 +62,7 @@ namespace Pomodoro
 						// Display the NSAlert from the current view
 						alert.BeginSheetForResponse(View.Window, (result) =>
 						{
-							// When the sheet is dimissed add the activity to the log
+							// When the sheet is dismissed add the activity to the log
 							log.Activities.Add(new Activity(CurrentTime, input.StringValue));
 							ActivityLog.ReloadData();
 						});
